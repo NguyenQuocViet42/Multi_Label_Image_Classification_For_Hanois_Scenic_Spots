@@ -4,3 +4,5 @@ Project này với mục đích phân biệt, trả về các địa danh của 
 - Mô hình được Pretrain từ mô hình ResNet50 với đầu ra Classification được sửa đổi, layer cuối cùng sử dụng hàm Sigmoid để đánh giá điểm của từng nhãn
 - Mô hình trên mình xây dựng trên Driver để sử dụng Google Colab:
   https://drive.google.com/drive/folders/12EUJgDoP1y-dZK92tZT7snk9DoaSLxKn?usp=sharing
+  - File Train: Resnet_miml
+  - File Test: Test_Resnet
